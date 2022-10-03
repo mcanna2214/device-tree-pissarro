@@ -1,2 +1,2 @@
 # device-tree-pissarro
-redmi note11pro5g(pissarro) device tree
+Device Tree for Xiaomi Redmi Note 11 pro 5g (pissarro)
