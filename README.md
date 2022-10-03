@@ -1,2 +1,10 @@
-# device_tree_pissarro
-Device Tree for Xiaomi Redmi Note 11 pro 5g (pissarro)
+# Android device tree for Redmi pissarro (pissarro)
+
+```
+#
+# Copyright (C) 2022 The Android Open Source Project
+# Copyright (C) 2022 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
