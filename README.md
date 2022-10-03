@@ -1,4 +1,5 @@
-# Android device tree for Xiaomi Redmi note 11 pro 5G pissarro (pissarro)
+# Android device tree for Xiaomi Redmi note 11 pro 5G pissarro (pissarro) (Mediatek Dimensity 920)
+
 
 ```
 #
